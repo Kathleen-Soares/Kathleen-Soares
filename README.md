@@ -12,10 +12,10 @@
 - Software architecture and clean code 🧱
 
 🌱 I’m currently learning:
-- Python (Udemy course 🐍)
+- Python 🐍
 - NoSQL Databases (MongoDB 📊)
-- Web and Mobile Applications (university 📚)
-- French and improving my English
+- Web and Mobile Applications 📚
+- Improving my French and English skills
 
 💞️ I’m looking to collaborate on:
 - Back-end focused projects 🧠
