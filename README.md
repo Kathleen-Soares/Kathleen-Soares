@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Kathleen-Soares
 
-🎓 I'm currently a Software Engineering student based in Porto, Portugal.  
+🎓 I'm currently a Computer Science student based in Porto, Portugal.  
 💼 Transitioning into tech with a strong passion for back-end development and system architecture.
 
 ---
