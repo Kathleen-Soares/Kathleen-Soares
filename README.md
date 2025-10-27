@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m @Kathleen-Soares
 
-🎓 I'm a Master's student in Computer Science at University of Porto, Department of Computer Science. 
+🎓 I'm a Master's student in Computer Science at University of Porto, Department of Computer Science.
+
 🌍 Based in Porto, Portugal.
 
 ---
