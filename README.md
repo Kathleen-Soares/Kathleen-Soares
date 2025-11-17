@@ -7,10 +7,10 @@
 ---
 
 👀 I’m interested in:
-- Back-end development 🖥️
-- RESTful APIs and microservices 🔗
-- Databases (SQL & NoSQL) 🗃️
-- Software architecture and clean code 🧱
+- Software development 
+- Business Intelligence & Analytics 
+- RESTful APIs and microservices 
+- Databases (SQL & NoSQL) 
 
 💞️ I’m looking to collaborate on:
 - Back-end focused projects 🧠
